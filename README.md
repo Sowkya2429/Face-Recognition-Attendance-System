@@ -2,11 +2,11 @@
 The Face Recognition Attendance System is a Python project that utilizes OpenCV, Firebase database, and the Face Recognition module to automate attendance tracking through facial recognition. This system offers an efficient and reliable solution for streamlined attendance management.
 
 # Features
-### Face recognition: The system recognizes faces captured by the webcam and matches them with pre-registered student faces.
-### Firebase integration: Student attendance data is stored securely in a Firebase Realtime Database, allowing easy retrieval and management.
-### Cloud storage: Student images are stored in the Firebase Cloud Storage for efficient access and retrieval.
-### Real-time updates: The attendance system updates student attendance records in real-time based on recognized faces.
-### User-friendly interface: The system provides an intuitive graphical interface for easy input and retrieval of attendance data.
+## Face recognition: The system recognizes faces captured by the webcam and matches them with pre-registered student faces.
+## Firebase integration: Student attendance data is stored securely in a Firebase Realtime Database, allowing easy retrieval and management.
+## Cloud storage: Student images are stored in the Firebase Cloud Storage for efficient access and retrieval.
+## Real-time updates: The attendance system updates student attendance records in real-time based on recognized faces.
+## User-friendly interface: The system provides an intuitive graphical interface for easy input and retrieval of attendance data.
 # Dependencies
 1. Python 3.7
 2. OpenCV
